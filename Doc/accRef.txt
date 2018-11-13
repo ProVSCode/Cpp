@@ -1,0 +1,3 @@
+aid01   uid01   tid01
+aid02   uid02   tid02
+aid03   uid03   tid02
